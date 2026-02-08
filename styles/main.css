@@ -1,0 +1,8 @@
+.nav-list {
+    background-color: blue;
+}
+
+nav ul li:hover {
+ background-color: darkgray;
+ list-style-type: none;
+}

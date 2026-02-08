@@ -18,3 +18,8 @@ table, th, td {
     border-collapse: collapse;
     background-color: gray;
 }
+
+.bordered-image {
+    border: 5px solid;
+
+}
